@@ -13,6 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### :zap: Actividad reciente
-<!--START_ACTIVITY:start-->
-
-<!--END_ACTIVITY:end-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
