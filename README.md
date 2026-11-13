@@ -1,8 +1,6 @@
 # 👨‍💻 Who am I?
 👋 Hi, I’m @ElvisDave
-Technology Solutions Developer | Industrial IT & Music Specialist | Passionate about AI, Social Impact, Continuous Learning, and Creativity
-
-👀 I'm currently working on a startup project, focused on health.
+Technology Solutions Developer | Industrial IT & Music | Passionate about AI, Social Impact, Continuous Learning, and Creativity
 
 🌱 I'm currently learning about artificial intelligence and startups.
 
